@@ -1,6 +1,6 @@
 # Schreibtischhelden
 
-[schreibtischhelden.net](https://schreibtischhelden.net)
+[schreibtischhelden.github.io](https://schreibtischhelden.github.io)
 
 Wir bauen schlanke, wartbare Software: statische Websites ohne Datenbank, kleine Bibliotheken mit sauberem Output und Werkzeuge, die man selbst betreiben kann. Unsere Projekte sind Open Source.
 
@@ -33,4 +33,4 @@ Beispiel-Instanz: [weissens.ee](https://weissens.ee/) für Berlin-Weißensee.
 
 ## Kontakt
 
-Fragen, Ideen oder ein Projekt im Kopf? Melde dich über [schreibtischhelden.net](https://schreibtischhelden.net) oder öffne ein Issue im passenden Repo.
+Fragen, Ideen oder ein Projekt im Kopf? Öffne ein Issue im passenden Repo.
