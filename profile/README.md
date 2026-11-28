@@ -22,7 +22,8 @@ Beispiel-Instanz: [weissens.ee](https://weissens.ee/) für Berlin-Weißensee.
 
 | Repo | Beschreibung |
 |---|---|
-| [`markdown-pages.js`](https://github.com/schreibtischhelden/markdown-pages.js) | Statische Websites aus Markdown, ohne Generator: bereinigtes HTML, Menüs aus JSON, Formulare und ein Docs-Theme |
+| [`markdown-pages.js`](https://github.com/schreibtischhelden/markdown-pages.js) | Statische Websites aus Markdown, ohne Generator: bereinigtes HTML, Menüs aus JSON, Formulare, Editor und ein Docs-Theme → [Doku](https://schreibtischhelden.github.io/markdown-pages.js/) |
+| [`markdown-pages-editor`](https://github.com/schreibtischhelden/markdown-pages-editor) | Schlanker Markdown-Editor für den Browser mit Toolbar und Live-Vorschau, ohne Abhängigkeiten → [npm](https://www.npmjs.com/package/@schreibtischhelden/markdown-pages-editor) |
 | [`showdown-forms`](https://github.com/schreibtischhelden/showdown-forms) | Showdown-2.x-Extension, die `:::form`-Blöcke in Markdown zu HTML-Formularen macht |
 
 ### 🗄️ Ältere Projekte
